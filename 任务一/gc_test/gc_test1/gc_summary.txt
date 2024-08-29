@@ -1,0 +1,6 @@
+GC Option	Total GC Pause Time (ms)	Total Elapsed Time (s)	GC Throughput (%)
+-XX:+UseSerialGC	13448.3	                      60.19	            78.00
+-XX:+UseParallelGC	38656.4	                      60.2	            36.00
+-XX:+UseG1GC	        57909.7                       60.2	            4.00
+-XX:+UseZGC	        53777.5	                      61.31	            13.00
+-XX:+UseShenandoahGC	11624.6	                      60.16	            81.00

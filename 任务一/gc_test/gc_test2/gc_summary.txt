@@ -1,0 +1,6 @@
+GC Option	Total GC Pause Time (ms)	Max GC Pause Time (ms)	Min GC Pause Time (ms)	Full GC Count	Specific Events
+-XX:+UseSerialGC	7486.73	                     281.944	            0.072	            38	           N/A
+-XX:+UseParallelGC	24174.9	                     630.984	            0.021	            86	           N/A
+-XX:+UseG1GC	        19523.5	                     32.380	            0.0	0	            0
+-XX:+UseZGC	        37677	                     100	            0.000	            0	           88
+-XX:+UseShenandoahGC	1885.93	                     16.708	            0.006	            4	           12
